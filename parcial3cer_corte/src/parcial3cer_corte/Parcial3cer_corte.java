@@ -17,6 +17,8 @@ public class Parcial3cer_corte {
     public static void main(String[] args) {
         System.out.println(" version 1");
         System.out.println(" verison 2");
+        System.out.println("desarrollador 1");
+        System.out.println("desarrollador 2");
         System.out.println("desarrollador 3");
     }
     
